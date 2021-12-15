@@ -1,0 +1,89 @@
+{
+    "javascript": {
+        "years": 20,
+        "competency": 8,
+        "interest": 4,
+        "related": ["jquery", "angular", "browser dom", "nodejs"]
+    },
+    "cfml": {
+        "years": 24,
+        "competency": 9,
+        "interest": 5,
+        "related": ["coldbox", "commandbox", "oop", "rest", "microservices"]
+    },
+    "java": {
+        "years": 20,
+        "competency": 6,
+        "interest": 5,
+        "related": ["jvm", "openjdk", "j2ee"],
+        "notes": "Having spent so long with CFML engines, I've needed to understand the JVM and coding/troubleshooting in Java."
+    },
+    "python": {
+        "years": 2,
+        "competency": 4,
+        "interest": 9,
+        "notes": "I am currently engaged in an aggressive course to improve my Python skills."
+    },
+    "bash": {
+        "years": 22,
+        "competency": 8,
+        "interest": 7,
+        "related": ["shell programming", "server administration"]
+    },
+    "docker": {
+        "years": 3,
+        "competency": 5,
+        "interest": 9,
+        "related": ["containers", "aws ecs", "aws eks", "kubernetes"],
+        "notes": "Within the last year, my use of containers has ramped up significantly. It solves some dependency and distribution problems better than anything else. I haven't yet implemented a large AWS ECS deployment, I'm moving in that direction."
+    },
+    "linux": {
+        "years": 24,
+        "competency": 9,
+        "interest": 9,
+        "related": ["server administration"],
+        "notes": "I've been running my own Linux servers since before the dot com boom. From large cloud infrastructures all the way down to little SBCs."
+    },
+    "haproxy": {
+        "years": 2,
+        "competency": 6,
+        "interest": 7,
+        "notes": "I've used HAProxy in production to solve tricky load balancing problems. It's an incredible product."
+    },
+    "aws": {
+        "years": 12,
+        "competency": 7,
+        "interest": 8,
+        "notes": "I've used AWS EC2 instances since the early days, and adopted many of the other services as they were rolled out. I'm very good at virtualizing workloads and designing networks. I've recently gotten very good at writing solid CloudFormation template and creating thorough stacks. I plan to acquire the AWS DevOps Engineer certification."
+    },
+    "sql": {
+        "years": 25,
+        "competency": 9,
+        "related": ["rdbm", "business reporting", "database design"],
+        "notes": "I'm very good at getting SQL Server to solve problems, but I actually enjoy working with PostgreSQL."
+    },
+    "devops": {
+        "years": 9,
+        "competency": 8,
+        "related": ["jenkins", "ci/cd", "aws codedeploy"],
+        "interest": 9,
+        "notes": "All my applications have been tested and deployed using Jenkins for years. I'm now transitioning to more reactive build pipelines to automate delivery."
+    },
+    "ansible": {
+        "years": 5,
+        "competency": 8,
+        "related": ["configuration management"]
+    },
+    "networking": {
+        "years": 20,
+        "competency": 8,
+        "related": ["firewalls", "routers", "network security", "load balancing", "dns", "vpn", "tls"],
+        "notes": "I have designed and operated networking solutions for most of my applications. I am extremely good at troubleshooting web communication issues."
+    },
+    "solr": {
+        "years": 10,
+        "competency": 7,
+        "related": ["lucene", "document search engines"],
+        "notes": "I wrote the search engine behind eCivis using Solr. It has exceeded all expectations for several years."
+    }
+}
