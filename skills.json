@@ -59,6 +59,7 @@
     "sql": {
         "years": 25,
         "competency": 9,
+        "interest": 6,
         "related": ["rdbm", "business reporting", "database design"],
         "notes": "I'm very good at getting SQL Server to solve problems, but I actually enjoy working with PostgreSQL."
     },
@@ -72,17 +73,20 @@
     "ansible": {
         "years": 5,
         "competency": 8,
+        "interest": 8,
         "related": ["configuration management"]
     },
     "networking": {
         "years": 20,
         "competency": 8,
+        "interest": 7,
         "related": ["firewalls", "routers", "network security", "load balancing", "dns", "vpn", "tls"],
         "notes": "I have designed and operated networking solutions for most of my applications. I am extremely good at troubleshooting web communication issues."
     },
     "solr": {
         "years": 10,
         "competency": 7,
+        "interest": 6,
         "related": ["lucene", "document search engines"],
         "notes": "I wrote the search engine behind eCivis using Solr. It has exceeded all expectations for several years."
     }
